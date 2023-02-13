@@ -5,7 +5,7 @@ Você tem alguma API coorporativa ou web que deseja consultar e retornar os dado
 
 Então esses arquivos devem ajudar, pois são extremamente úteis no cruzamento de dados e geração de relatórios OLTP na minha empresa
 
-Recomento a leitura da documentação das bibliotecas para maior entendimento e escalabilidade do projeto caso necessário:
+Recomendo a leitura da documentação das bibliotecas para maior entendimento e escalabilidade do projeto caso necessário:
 
 Pandas - Biblioteca para manipulação de dados estruturados: https://pandas.pydata.org/docs/
 Requests - Consumindo dados web com ou sem autenticação: https://requests.readthedocs.io/en/latest/
